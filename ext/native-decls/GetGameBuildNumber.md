@@ -13,18 +13,19 @@ Returns the internal build number of the current game being executed.
 Possible values:
 
 * FiveM
-  * 1604
-  * 2060
-  * 2189
-  * 2372
-  * 2545
-  * 2612
-  * 2699
-  * 2802
-  * 2944
-  * 3095
-  * 3258
-  * 3323
+  * 1604 ( Arena War DLC ) 
+  * 2060 ( Los Santos Summer Special DLC ) 
+  * 2189 ( Cayo Perico Heist DLC ) 
+  * 2372 ( Los Santos Tuners DLC ) 
+  * 2545 ( The Contract DLC ) 
+  * 2612 ( The Contract DLC ) 
+  * 2699 ( The Criminal Enterprises DLC ) 
+  * 2802 ( Los Santos Drug Wars DLC ) 
+  * 2944 ( San Andreas Mercenaries DLC ) 
+  * 3095 ( The Chop Shop DLC ) 
+  * 3258 ( Bottom Dollar Bounties DLC ) 
+  * 3323 ( Bottom Dollar Bounties DLC )
+  * 3407 ( Agents Of Sabotage DLC ) 
 * RedM
   * 1311
   * 1355
